@@ -1,0 +1,33 @@
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.exe.config
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.exe
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.pdb
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.AssemblyReference.cache
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.Form1.resources
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.Properties.Resources.resources
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.GenerateResource.cache
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.CoreCompileInputs.cache
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.exe
+D:\Daniil\Desktop\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.pdb
+D:\Daniil\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.exe.config
+D:\Daniil\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.exe
+D:\Daniil\Everything\VS projects\CalcualtorDR\bin\Debug\CalcualtorDR.pdb
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.AssemblyReference.cache
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.Form1.resources
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.Properties.Resources.resources
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.GenerateResource.cache
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.CoreCompileInputs.cache
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.exe
+D:\Daniil\Everything\VS projects\CalcualtorDR\obj\Debug\CalcualtorDR.pdb
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\bin\Debug\CalcualtorDR.exe.config
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\bin\Debug\CalcualtorDR.exe
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\bin\Debug\CalcualtorDR.pdb
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.AssemblyReference.cache
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.SuggestedBindingRedirects.cache
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.Form1.resources
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.Properties.Resources.resources
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.GenerateResource.cache
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.csproj.CoreCompileInputs.cache
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.exe
+D:\Daniil\Everything\Проекты для сайта\CalcualtorDR\obj\Debug\CalcualtorDR.pdb
